@@ -1,6 +1,7 @@
 Une liste d'applications utiles auxquelles vous pouvez contribuer
 
-| Usage                            | Site web                 | Code source             |
-|----------------------------------+--------------------------+-------------------------|
-| Remplir une attestation en ligne | [[https://www.attestation-covid.fr][www.attestation-covid.fr]] | [[https://github.com/magopian/att][github.com/magopian/att]] |
+| Usage                                    | Site web                 | Code source             |
+|------------------------------------------+--------------------------+-------------------------|
+| Remplir une attestation en ligne         | [[https://www.attestation-covid.fr][www.attestation-covid.fr]] | [[https://github.com/magopian/att][github.com/magopian/att]] |
+| Plateforme de suivi de patients atteints | [[https://blog.lifen.fr/posts/covid-19-une-application-pour-diagnostiquer-les-patients-depuis-leur-domicile][Explications]]             | [[https://github.com/lifen-labs/covid][lifen-labs/covid]]        |
 
