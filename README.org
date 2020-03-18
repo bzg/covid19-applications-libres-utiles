@@ -1,0 +1,6 @@
+Une liste d'applications utiles auxquelles vous pouvez contribuer
+
+| Usage                            | Site web                 | Code source             |
+|----------------------------------+--------------------------+-------------------------|
+| Remplir une attestation en ligne | [[https://www.attestation-covid.fr][www.attestation-covid.fr]] | [[https://github.com/magopian/att][github.com/magopian/att]] |
+
